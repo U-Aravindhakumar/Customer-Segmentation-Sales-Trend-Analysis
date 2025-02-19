@@ -64,9 +64,9 @@ CREATE TABLE customer_sales (
 );
 ```
 pip install pandas numpy seaborn matplotlib scikit-learn statsmodels mysql-connector-python 
+
 ```
-```
-python customer_analysis.py```
+python customer_analysis.py
 
 
 ## **Expected Outcomes**
