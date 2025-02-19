@@ -85,7 +85,6 @@ This project is open-source and free to use under the **MIT License**.
 🔗 [**LinkedIn**](https://www.linkedin.com/in/aravindhakumar-u)  
 
 
----
 
 ### **📌 How to Use This?**  
 Just **copy** the text above and **paste it into your `README.md` file**.  
