@@ -61,14 +61,14 @@ CREATE TABLE customer_sales (
     Purchase_Amount FLOAT,
     Purchase_Date DATE,
     Region VARCHAR(50)
-);
+);```
 
 ```
 pip install pandas numpy seaborn matplotlib scikit-learn statsmodels mysql-connector-python
-
+```
 
 ```python customer_analysis.py
-
+```
 
 ## **Expected Outcomes**
 - **Customer Segmentation** helps businesses **target the right customers** for promotions.  
