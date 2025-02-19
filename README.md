@@ -69,7 +69,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn statsmodels mysql-conne
 
 ```
 python customer_analysis.py
-```
+
 
 ## **Expected Outcomes**
 - **Customer Segmentation** helps businesses **target the right customers** for promotions.  
