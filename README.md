@@ -1,4 +1,3 @@
-
 # **Customer Segmentation & Sales Trend Analysis**
 
 ## **Project Overview**
@@ -89,7 +88,5 @@ This project is open-source and free to use under the **MIT License**.
 
 
 
-### **📌 How to Use This?**  
-Just **copy** the text above and **paste it into your `README.md` file**.  
 
-Would you like me to add **any more sections** (e.g., Challenges, Future Enhancements)? 🚀
+Would you like me to add **any more sections** (e.g., Challenges, Future Enhancements)? 
