@@ -60,13 +60,10 @@ CREATE TABLE customer_sales (
     Purchase_Amount FLOAT,
     Purchase_Date DATE,
     Region VARCHAR(50)
-);```
+);
 
 ```
-pip install pandas numpy seaborn matplotlib scikit-learn statsmodels mysql-connector-python
-```
-
-```
+pip install pandas numpy seaborn matplotlib scikit-learn statsmodels mysql-connector-python```
 python customer_analysis.py
 
 
