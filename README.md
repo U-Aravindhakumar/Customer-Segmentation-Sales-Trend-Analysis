@@ -84,9 +84,4 @@ This project is open-source and free to use under the **MIT License**.
 ## **Author**  
 👤 **U. Aravindhakumar**  
 📧 **msdaravind92@gmail.com**  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/aravindhakumar-u)  
-
-
-
-
-Would you like me to add **any more sections** (e.g., Challenges, Future Enhancements)? 
+🔗 [**LinkedIn**](https://www.linkedin.com/in/aravindhakumar-u)
